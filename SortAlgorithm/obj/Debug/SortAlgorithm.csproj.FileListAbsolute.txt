@@ -1,0 +1,7 @@
+E:\Git\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+E:\Git\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+E:\Git\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csprojAssemblyReference.cache
+E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
