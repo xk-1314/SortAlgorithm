@@ -37,7 +37,7 @@ namespace SortAlgorithm
             _2BubbleSort s2 = new _2BubbleSort();
             arr = Shuffle_1(arr);
             arr = s2.Sort(arr);
-            arr = Shuffle_1(arr);
+            arr = Shuffle_2(arr);
             arr = s2.OptimizeSort(arr);
             //Test();
             Console.ReadKey();
@@ -75,7 +75,7 @@ namespace SortAlgorithm
             return arr;
         }
 
-        public static void Shuffle_2(int[] arr)
+        public static int[] Shuffle_2(int[] arr)
         {
             Stopwatch sw = new Stopwatch();
             sw.Start();
@@ -97,6 +97,7 @@ namespace SortAlgorithm
             sw.Stop();
             TimeSpan ts = sw.Elapsed;
             Console.WriteLine("洗牌耗时: {0}ms", ts.TotalMilliseconds);
+            return arr;
         }
         #endregion
     }

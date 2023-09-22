@@ -5,3 +5,11 @@ E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csprojAssemblyReferen
 E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
 E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
 E:\Git\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.AssemblyReference.cache
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.SuggestedBindingRedirects.cache
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+F:\Git\SelfProject\C#\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
